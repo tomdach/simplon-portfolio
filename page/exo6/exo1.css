@@ -1,0 +1,19 @@
+div{
+	float: left;
+	height: 200px;
+    width: 200px;
+    border: 1px solid black ;
+}
+#div1{
+	background-color: #EE7D20;
+}
+#div2{
+	background-color: #EEB120;
+}
+#div3{
+	background-color: #273DAE;
+
+}
+#div4{
+	background-color: #138F8F;
+}

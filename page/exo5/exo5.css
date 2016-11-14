@@ -1,0 +1,56 @@
+div{
+	width: 70%;
+	
+	height: 500px;
+
+}
+h2{
+	font-family: sans-serif;
+	text-transform: uppercase;
+	background-color: blue ;
+	display: inline;
+}
+img{
+	width: 200px;
+	height: 100%;
+	float: left;
+}
+#mydiv{
+	width: 30%;
+	position: fixed;
+	top:0px;
+	right: 0px;
+
+}
+#home{
+	width: auto;
+	height: 670px;
+	border:1px solid blue;
+    margin-left: 150px;
+
+}
+#portfolio{
+	width: auto;
+	height: 670px;
+	border:1px solid white;
+	margin-left: 150px;
+
+
+}
+#about{
+	width: auto;
+	height: 670px;
+	border:1px solid red;
+    margin-left: 150px;
+        
+}
+#contact{
+	width: auto;
+	height: 670px;
+	border:1px solid yellow;
+	margin-left: 150px;
+}
+
+
+
+
